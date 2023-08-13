@@ -1,5 +1,6 @@
 # Weather_App
 weather app made in node js 
+direct link of the website is here : - https://watchweather.onrender.com/
 
 -------------------------------- HOW TO RUN THE PROJECT -------------------------------------
 1)  clone the repo
